@@ -1,4 +1,4 @@
-function square() {
+function squere() {
     let a = document.sq.sq_a.value;
     let b = document.sq.sq_b.value;
     let c = document.sq.sq_c.value;
